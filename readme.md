@@ -1,5 +1,5 @@
 ## EN_ZH_machine_translation
-This repo implements the Transformer Architecture in the paper: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) in pytorch.  
+This repo implements the Transformer architecture ([Attention Is All You Need](https://arxiv.org/abs/1706.03762)) in pytorch.  
 It is trained in the supervised way, using wmt19, english and chinese news-commentary as training data.   
 After training, it can translate English sentence to Chinese sentence.   
 
